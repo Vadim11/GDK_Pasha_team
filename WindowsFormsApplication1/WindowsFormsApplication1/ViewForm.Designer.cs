@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication1
 {
-    partial class Form2
+    partial class ViewForm
     {
         /// <summary>
         /// Required designer variable.

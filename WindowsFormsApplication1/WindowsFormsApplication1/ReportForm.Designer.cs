@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication1
 {
-    partial class Form4
+    partial class ReportForm
     {
         /// <summary>
         /// Required designer variable.

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    public partial class Form1 : Form
+    public partial class StartForm : Form
     {
-        public Form1()
+        public StartForm()
         {
             InitializeComponent();
         }
@@ -24,19 +24,19 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 f = new Form2();
+            ViewForm f = new ViewForm();
             f.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form3 f1 = new Form3();
+            OrderForm f1 = new OrderForm();
             f1.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Form4 f2 = new Form4();
+            ReportForm f2 = new ReportForm();
             f2.Show();
         }
     }
