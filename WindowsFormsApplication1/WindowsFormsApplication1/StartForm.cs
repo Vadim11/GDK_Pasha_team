@@ -39,5 +39,10 @@ namespace WindowsFormsApplication1
             ReportForm f2 = new ReportForm();
             f2.Show();
         }
+
+        private void StartForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
