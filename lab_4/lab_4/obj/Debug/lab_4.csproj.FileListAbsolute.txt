@@ -1,0 +1,15 @@
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\bin\Debug\lab_4.exe.config
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\bin\Debug\lab_4.exe
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\bin\Debug\lab_4.pdb
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\lab_4.csprojResolveAssemblyReference.cache
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\lab_4.Form1.resources
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\lab_4.Properties.Resources.resources
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\lab_4.csproj.GenerateResource.Cache
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\lab_4.exe
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\lab_4.pdb
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\bin\Debug\Interop.WMPLib.dll
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\bin\Debug\AxInterop.WMPLib.dll
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\Interop.WMPLib.dll
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\AxInterop.WMPLib.dll
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\lab_4.csproj.ResolveComReference.cache
+D:\skydrive\інформ\programms_izvp\lab_4\lab_4\obj\Debug\lab_4.UserControl1.resources
