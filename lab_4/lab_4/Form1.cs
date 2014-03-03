@@ -25,13 +25,11 @@ namespace lab_4
 
 
         private void button1_Click(object sender, EventArgs e) //діалог вибору фото
-        {
-            
+        {            
         }
 
         private void button2_Click(object sender, EventArgs e) //початок показу зображень
-        {
-           
+        {          
         }
 
         private void timer1_Tick(object sender, EventArgs e) //зміна зображення і заголовка
@@ -39,18 +37,15 @@ namespace lab_4
         }
        
         private void listBox1_DragDrop(object sender, DragEventArgs e) //обробка події паратягування файлів
-        {
-            
+        {           
         }
 
         private void button3_Click(object sender, EventArgs e)  //зупинення зміни зображень
-        {
-            
+        {           
         }
 
         private void listBox1_DragEnter(object sender, DragEventArgs e)
-        {
-           
+        {          
         }
 
         private void видалитиToolStripMenuItem_Click(object sender, EventArgs e) // контекстне меню видалення фото з списку
@@ -58,8 +53,7 @@ namespace lab_4
         }
 
         private void button4_Click(object sender, EventArgs e) //діалог вибору аудіо
-        {           
-            
+        {                      
         }       
 
         private void listBox2_DoubleClick(object sender, EventArgs e) //програвання аудіо при подвійному кліку
@@ -73,54 +67,43 @@ namespace lab_4
         }
 
         private void button6_Click_1(object sender, EventArgs e) //приховування панелі
-        {            
-            
+        {                        
         }                          
        
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e) //при наближенні вказівника до краю форми відображається панель
-        {
-            
+        {            
         }               
         
         private void button8_Click(object sender, EventArgs e) //кнопка управління плеєром - назад
-        {
-            
+        {           
         }
 
         private void button9_Click(object sender, EventArgs e) //кнопка управління плеєром - вперед
-        {
-            
+        {           
         }
 
         private void button7_Click_1(object sender, EventArgs e) //відображення швидкості
-        {
-                   
+        {                  
         }
 
         private void Form1_Load(object sender, EventArgs e)  //налаштування параметрів повзунків
-        {
-            
+        {           
         }
 
         private void button10_Click(object sender, EventArgs e) //відображення гучгності
-        {
-            
+        {           
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e) //вирівнювання розмірів зоьраження
-        {
-            
-
+        {           
         }
 
         private void listBox2_DragDrop(object sender, DragEventArgs e) //перетаскування аудіо
-        {
-            
+        {            
         }
 
         private void listBox2_DragEnter(object sender, DragEventArgs e)
-        {
-            
+        {           
         }            
     }
 }
